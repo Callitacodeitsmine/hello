@@ -9,3 +9,4 @@ percentage = (total / 500) * 100
 print("Total:", total)
 print("Average:", average)
 print("Percentage:", round(percentage, 2), "%")
+print("hello")
